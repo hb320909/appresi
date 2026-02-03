@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'residencia',
+  appId: 'com.residenciaescolar.portal',
+  appName: 'Residencia Escolar Portal',
   webDir: 'dist'
 };
 
